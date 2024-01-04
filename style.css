@@ -841,7 +841,7 @@ a.slicknav_btn {
 	bottom: 0;
 	color: #fff;
 	content: "\f00e";
-	font-family: FontAwesome;
+	font-family: 'Inter', sans-serif;
 	font-size: 18px;
 	height: 50px;
 	left: 0;
@@ -2315,7 +2315,7 @@ body,
 .car-info-list li::before {
 	color: #FF8F1F;
 	content: "\f14a";
-	font-family: FontAwesome;
+	font-family: 'Inter', sans-serif;
 	margin-right: 5px;
 }
 
@@ -2561,7 +2561,7 @@ body,
 .tech-info-list li::before {
 	color: #fab702;
 	content: "\f058";
-	font-family: FontAwesome;
+	font-family: 'Inter', sans-serif;
 	margin-right: 15px;
 }
 
@@ -2789,7 +2789,7 @@ body,
 .single-our-facility ul li::before {
 	color: #FF8F1F;
 	content: "\f046";
-	font-family: fontawesome;
+	font-family: 'Inter', sans-serif;
 	margin-right: 15px;
 }
 
