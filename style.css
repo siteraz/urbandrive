@@ -533,7 +533,8 @@ a.slicknav_btn {
 
 .partner-content-wrap.owl-carousel img {
 	margin: auto;
-	width: auto;
+	width: 205px;
+	height: 105px;
 }
 
 /*== Partner Area CSS End ==*/
@@ -1316,7 +1317,7 @@ a.slicknav_btn {
 }
 
 .footer-widget-area {
-	background-color: #007bff;
+	background-color: #1d2a38;
 	padding: 60px 0;
 }
 
