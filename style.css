@@ -168,7 +168,7 @@
 }
 
 #header-top {
-	background-color: #1e2228;
+	background-color: #007bff;
 	padding: 8px 0;
 }
 
@@ -729,7 +729,7 @@ a.slicknav_btn {
 	background-color: #f3f3f3 !important;
 	border: medium none;
 	border-radius: 0 !important;
-	color: #1e2228 !important;
+	color: #007bff !important;
 	font-size: 13px;
 	font-weight: 700;
 	letter-spacing: 1.3px;
@@ -1067,7 +1067,7 @@ a.slicknav_btn {
 /*== Testimonial Area CSS Start ==*/
 
 .single-testimonial {
-	background-color: #1e2228;
+	background-color: #007bff;
 	color: #fff;
 	font-weight: 600;
 	line-height: 2;
@@ -1076,7 +1076,7 @@ a.slicknav_btn {
 }
 
 .single-testimonial::after {
-	background-color: #1e2228;
+	background-color: #007bff;
 	border-left: 4px solid #FF8F1F;
 	content: "";
 	height: 100%;
@@ -1316,7 +1316,7 @@ a.slicknav_btn {
 }
 
 .footer-widget-area {
-	background-color: #1e2228;
+	background-color: #007bff;
 	padding: 60px 0;
 }
 
