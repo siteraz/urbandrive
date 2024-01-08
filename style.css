@@ -208,7 +208,7 @@ header.fixTotop #header-top {
 }
 
 header.fixTotop #header-bottom {
-	background-color: rgba(0, 0, 0, 1);
+	background-color: #1d2a38;
 	-webkit-transition: all 0.4s ease 0s;
 	transition: all 0.4s ease 0s;
 }
@@ -3365,4 +3365,25 @@ span.fullpricetext {
         opacity: 0;
     }
 }
+
+.reviews {
+	background-color: #f8f8f8;
+	padding: 20px;
+	border-radius: 5px;
+  }
+  .review {
+	padding: 10px;
+	border-bottom: 1px solid #eaeaea;
+  }
+  .review:last-child {
+	border-bottom: none;
+  }
+  .review-text {
+	font-size: 16px;
+	margin-bottom: 5px;
+  }
+  .review-author {
+	font-size: 14px;
+	color: #999;
+  }
 
